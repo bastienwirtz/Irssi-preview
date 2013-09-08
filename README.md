@@ -1,0 +1,2 @@
+Irssi-image-preview
+===================
